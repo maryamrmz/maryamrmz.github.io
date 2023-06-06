@@ -56,12 +56,12 @@ export default function Home() {
                   </div>
                   <div className='pt-8 sm:pt-10 lg:pl-8 lg:pt-0'>
                     <h1 className='text-center font-header text-4xl text-white sm:text-left sm:text-5xl md:text-6xl'>
-                      Hello I&rsquo;m Maryam!
+                      Hello I&apos;m Maryam!
                     </h1>
                     <div className='flex flex-col justify-center pt-3 sm:flex-row sm:pt-5 lg:justify-start'>
                       <div className='flex items-center justify-center pl-0 sm:justify-start md:pl-1'>
                         <p className='font-body text-lg uppercase text-white'>
-                          Let`s connect
+                          Let&apos;s connect
                         </p>
                         <div className='hidden sm:block'>
                           <i className='bx bx-chevron-right text-3xl text-yellow'></i>
